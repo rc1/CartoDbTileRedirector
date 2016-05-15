@@ -1,0 +1,15 @@
+{
+  "name": "cartodb-namedmap-redirector,
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cartodb": "^0.5.1",
+    "w-js": "^4.48.1"
+  }
+}
