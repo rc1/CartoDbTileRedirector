@@ -1,5 +1,5 @@
 {
-  "name": "cartodb-namedmap-redirector,
+  "name": "cartodb-namedmap-redirector",
   "version": "1.0.0",
   "description": "",
   "main": "app.server.js",
